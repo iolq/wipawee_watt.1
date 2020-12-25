@@ -9,6 +9,6 @@ int main() {
 	double output = 0;
 
     output = (a+b)/c;
-    cout << "output:" << output << "\n";
+    cout << "output: " << output << "\n";
     return 0;
 }
